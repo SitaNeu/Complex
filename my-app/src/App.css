@@ -1,0 +1,55 @@
+/* src/App.css */
+.logo {
+  width: 120px; /* Adjust the size of your logo */
+  height: 100px;
+}
+
+.navbar-nav .nav-link {
+  margin-right: 15px;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.btn-outline-secondary {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+/* src/App.css */
+.form-control {
+  width: 250px; /* Adjust the width of the search bar */
+}
+
+.btn-outline-success {
+  font-weight: bold;
+}
+
+
+.btn-outline-success hover {
+
+  background-color: red;
+}
+
+/* src/App.css */
+.hero-section {
+  background-color: #f8f9fa; /* Light background */
+  padding: 40px 0;
+}
+
+.hero-section h1 {
+  color: black; /* Customize text color */
+}
+
+.hero-section .lead {
+  font-size: 1.25rem;
+  margin-bottom: 20px;
+}
+
+.hero-section img {
+  max-width: 100%; /* Make sure image is responsive */
+  height: auto;
+}
+
+.btn btn-primary{
+  background-color: red;
+}
